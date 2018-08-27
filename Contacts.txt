@@ -1,1 +1,2 @@
 Name		Student ID		Room No.		Phone Number
+王雷捷		2017013648	南区学生公寓十号楼北楼307	18811333601
